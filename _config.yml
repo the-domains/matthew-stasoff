@@ -1,4 +1,4 @@
-name: null
+name: Matthew Stasoff
 favicon: null
 layout_spectrum: 0.1992003854829818
 typography_spectrum: 0.5814048093743622
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.8140750108286738
+  brandColors:
+    - '#fefefe'
+    - '#d6d4d5'
+    - '#9d9c9a'
+    - '#1a1710'
+    - '#3f5390'
+  brandStrength: 0.25
   lightness: 0.897872663801536
   saturation: 0.9603982015978545
   rhythmicContrast: 0.5342353300657123
